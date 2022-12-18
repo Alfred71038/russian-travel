@@ -5,7 +5,7 @@
   grid-template-columns: 460px 484px;
   grid-template-rows: auto 460px;
   gap: 48px 40px;
-  align-items: stretch; 
+  align-items: stretch;
   margin-bottom: 80px;
   grid-template-areas: 
     "title website"
