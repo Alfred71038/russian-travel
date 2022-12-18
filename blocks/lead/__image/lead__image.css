@@ -1,0 +1,33 @@
+.lead__image {
+    background-image: url(../../../images/__image.jpg);
+    max-width: 984px;
+    min-height: 615px;
+    margin-top: 64px;
+  }
+
+  @media screen and (min-width: 1024px) and (max-width: 1279px){
+    .lead__image {
+      background-size: cover;
+      max-width: 928px;
+      min-height: 580px;
+      margin-top: 56px;
+    }
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1023px){
+    .lead__image {
+      background-size: cover;
+      max-width: 768px;
+      min-height: 480px;
+      margin-top: 56px;
+    }
+  }
+
+  @media screen and (min-width: 320px) and (max-width: 767px){
+    .lead__image {
+      background-size: cover;
+      max-width: 320px;
+      min-height: 200px;
+      margin-top: 40px;
+    }
+  }
