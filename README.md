@@ -16,4 +16,4 @@
 
 **Ссылка на сайт на GitHub**
 
-* https://alfred71038.github.io russian-travel/
+* https://alfred71038.github.io/russian-travel/
