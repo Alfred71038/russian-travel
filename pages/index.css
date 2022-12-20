@@ -2,6 +2,10 @@
 
 @import url(../vendor/normalize.css);
 
+/* body */
+
+@import url(../blocks/background-color/background-color.css);
+
 /* page */ 
 
 @import url(../blocks/page/page.css);
