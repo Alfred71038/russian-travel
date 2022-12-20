@@ -1,6 +1,5 @@
 .footer__copyright {
     max-width: 186px;
-    max-height: 18px;
     margin: 0;
     font-style: normal;
     font-weight: 400;
@@ -16,6 +15,6 @@
     .footer__copyright {
       line-height: 14px;
       text-align: left;
-      margin-top: 18px;
+      margin-top: 16px;
     }
   }

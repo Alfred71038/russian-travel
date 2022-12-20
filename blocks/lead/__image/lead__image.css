@@ -2,6 +2,7 @@
     background-image: url(../../../images/__image.jpg);
     max-width: 984px;
     min-height: 615px;
+    margin: auto;
     margin-top: 64px;
   }
 
@@ -10,6 +11,7 @@
       background-size: cover;
       max-width: 928px;
       min-height: 580px;
+      margin: auto;
       margin-top: 56px;
     }
   }
@@ -19,6 +21,7 @@
       background-size: cover;
       max-width: 768px;
       min-height: 480px;
+      margin: auto;
       margin-top: 56px;
     }
   }
@@ -28,6 +31,7 @@
       background-size: cover;
       max-width: 320px;
       min-height: 200px;
+      margin: auto;
       margin-top: 40px;
     }
   }
