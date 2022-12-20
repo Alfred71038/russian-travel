@@ -41,6 +41,7 @@
       "image"
       "paragraph";
     row-gap: 32px;
+    margin: auto;
     margin-bottom: 50px;
   }  
 }
